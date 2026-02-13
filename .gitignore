@@ -8,3 +8,5 @@ __pycache__/
 *.pyzw
 *.pyzwz
 .ruff_cache/
+config.bat
+node_modules
